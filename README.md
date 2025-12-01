@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=6C63FF&center=true&vCenter=true&width=600&lines=Guillermo+Redondo;FullStack+Developer;Front-End+%7C+React+%7C+WordPress;Building+clean+%26+modern+web+experiences" />
+  <img src="https://capsule-render.vercel.app/api?type=rect=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
 
 <h2 align="center">👋 Hey, I'm Guillermo — FullStack Developer</h2>
