@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A0CA3&height=220&section=header&text=Guillermo%20Redondo&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=6C63FF&center=true&vCenter=true&width=600&lines=Guillermo+Redondo;FullStack+Developer;Front-End+%7C+React+%7C+WordPress;Building+clean+%26+modern+web+experiences" />
 </p>
 
 <h2 align="center">👋 Hey, I'm Guillermo — FullStack Developer</h2>
@@ -83,7 +83,9 @@
 </p>
 
 ---
+<!-- Clean Minimal Footer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,100:6C63FF&height=120&section=footer" />
+  <sub>Built with ❤️ by <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-000000?style=flat-square" />
 </p>
