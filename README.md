@@ -78,8 +78,8 @@
 ## 🌐 Portfolio & Contact
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/🌍%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/guillermo-redondo-camacho/)"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/🌍%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/guillermo-redondo-camacho]"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
