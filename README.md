@@ -1,9 +1,9 @@
-<!-- Header Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3A0CA3&height=220&section=header&text=Guillermo%20Redondo&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuillermoRC%20&fontSize=80" />
 </p>
 
-<h2 align="center">👋 Hey, I'm Guillermo — FullStack Developer</h2>
+<h2 align="center">👋 Hey, I'm Guille — FullStack Developer</h2>
 
 <p align="center">
   <strong>Front-End | React | UX/UI | E-commerce</strong><br>
@@ -39,7 +39,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-orange?style=flat" />
 </p>
 
 ### 🧰 Software & Productivity
@@ -63,13 +62,15 @@
 
 ## 📌 Featured Projects
 
+<p>Coming soon...</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Guirecam&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Guirecam&theme=tokyonight&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Guirecam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -83,9 +84,8 @@
 </p>
 
 ---
-<!-- Clean Minimal Footer -->
+<!-- Footer -->
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-000000?style=flat-square" />
+  <sub>Built ☕ by <a href="https://github.com/Guirecam">Guirecam</a></sub><br>
 </p>
