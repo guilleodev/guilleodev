@@ -1,12 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuillermoRC%20&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuilleRC%20&fontSize=80" />
 </p>
 
 <h2 align="center">👋 Hola, soy Guille — FullStack Developer</h2>
 
 <p align="center">
-  <strong>Front-End | UX/UI Entusiasta visual </strong><br>
+  <strong>FullStack | UX/UI Entusiasta visual </strong><br>
   Combinando diseño y desarrollo para crear experiencias web modernas, rápidas y limpias.
 </p>
 
@@ -57,10 +57,9 @@
   <img src="https://img.shields.io/badge/Decocloud-4C4C4C?style=for-the-badge&logoColor=white" />
 </p>
 
-
 ---
 
-## 📌 Proyectos destacados
+## 📌 Proyectos
 
 <p>Muy pronto...</p>
 
@@ -75,10 +74,9 @@
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🌐 Contacto
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🌍%20Portfolio-6C63FF?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:guillerc18@gmail.com"><img src="https://img.shields.io/badge/Email-4361EE?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
