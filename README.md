@@ -1,17 +1,20 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=GuilleRC%20&fontSize=80" />
+  <img width="750" src="guilleODEVWhite-transparent.png" />
+</p>
+
+<p align="center">
+  <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 </p>
 
 <p align="center">
   <strong>FullStack | UX/UI Entusiasta visual </strong><br>
-  Combinando diseño y desarrollo para crear experiencias web modernas, rápidas y limpias.
+  Hola! 👋 Soy Guille - Aprendiendo y construyendo
 </p>
 
 <a href="https://github.com/guirecam"><img align="right" width ="full" src="https://komarev.com/ghpvc/?username=guirecam&style=for-the-badge&color=blue"></a>
 
 > [!CAUTION]
-> - 💻 Titulado en **Desarrollo de Aplicaciones Web (DAW)**  
+> - 💻 Titulado en **Desarrollo de Aplicaciones Web**  
 
 <a href="https://github.com/guirecam">   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550">
@@ -21,7 +24,7 @@
 > - 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias 
 
 > [!IMPORTANT]
-> - 📚 Actualmente formándome en React
+> - 📚 Actualmente formándome en React y Tailwind CSS
 
 > [!WARNING]  
 > - 🎮 Gamer, creativo y muy curioso
@@ -45,7 +48,6 @@
 <a href="https://github.com/guirecam">   
 <img align="right" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc3MzE4NTMsIm5iZiI6MTc2NzczMTU1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA2VDIwMzIzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0YmYwZTQ4ZTE1NGJlOTIwNWYwNWQ0MDQ5NGE0NTI0MzU5ZTI2MzQ0Mzg3ZmYzMGZlZTE4NDlmODg5Yzg5OWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gs16opzU_-7jMRYZmf69iBgOzvLbNN03UgdajAY1ius" width="400">
 </a>
-
 
 ### 💻 Programación y Tecnologías Web
 <p>
@@ -82,6 +84,16 @@
 <br/>
 
 <a href="https://github.com/guirecam"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50">    
+</a>
+
+## 🖥️ Proyectos
+
+<p>Muy pronto...</p>
+
+<br/>
+
+<a href="https://github.com/guirecam"> 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">    
 </a>
 
@@ -100,5 +112,9 @@
 <br/>
 
 <p align="center">
-  <sub>Construido con ☕ por <a href="https://github.com/Guirecam">GuilleODEV</a></sub><br>
+  <img width="200" src="logov2White-transparent.png" />
+</p>
+
+<p align="center">
+  <sub>Construido por <a href="https://github.com/Guirecam">GuilleODEV</a></sub><br>
 </p>
