@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="750" src="guilleODEVWhite-transparent.png" />
+  <img width="500" src="guilleODEVWhite-transparent.png" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 > - 💻 Titulado en **Desarrollo de Aplicaciones Web**  
 
 <a href="https://github.com/guirecam">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </a>
 
 > [!NOTE]
@@ -89,7 +89,29 @@
 
 ## 🖥️ Proyectos
 
-<p>Muy pronto...</p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+### 📊 Dashboard de Progreso
+
+Dashboard interactivo para visualizar y seguir el progreso de mis proyectos personales. Datos cargados dinámicamente desde **JSON** y mostrados en **tarjetas** con **barras de progreso** y milestones.
+
+**Tech:** HTML · CSS · JavaScript
+<p align="left">
+🌐 <a href="https://guirecam.github.io/dashboard-progreso/">Live Demo</a>  
+📂 <a href="https://github.com/guirecam/dashboard-progreso">Repositorio</a>
+</p>
+  </td>
+    <td width="45%" valign="top" align="right">
+      <img
+        src="https://raw.githubusercontent.com/guirecam/dashboard-progreso/main/preview.png"
+        width="420"
+        alt="Dashboard de Progreso preview"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -98,11 +120,7 @@
 </a>
 
 ## 📊 GitHub Stats
-
-<a href="https://github.com/guirecam">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-</a>
-
+  
 ![](https://github-readme-stats.vercel.app/api?username=Guirecam&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Guirecam&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guirecam&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -112,7 +130,7 @@
 <br/>
 
 <p align="center">
-  <img width="200" src="logov2White-transparent.png" />
+  <img width="150" src="logov2White-transparent.png" />
 </p>
 
 <p align="center">
