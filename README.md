@@ -117,7 +117,7 @@ Dashboard interactivo para visualizar y seguir el progreso de mis proyectos pers
 <tr>
   <td width="55%" valign="top">
 
-### 🧑‍💻 Portfolio Tailwind
+### 🧑‍💻 Plantilla demo Tailwind
 
 Plantilla de portfolio desarrollada con Tailwind CSS, utilizando mis propios datos como ejemplo de implementación y diseño. Enfoque en estructura moderna, responsive y reutilizable.
 
@@ -139,6 +139,9 @@ Plantilla de portfolio desarrollada con Tailwind CSS, utilizando mis propios dat
 </tr>
 
 </table>
+
+<br/>
+<p align="center">Portfolio personal próximamente...</p>
 
 <br/>
 
