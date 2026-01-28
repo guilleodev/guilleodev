@@ -38,6 +38,10 @@
   <a href="https://www.linkedin.com/in/guillermo-redondo-camacho"><img src="https://img.shields.io/badge/LinkedIn-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=guilleodev&data=followers,repositories,stars,commits&theme=darkmode" />
+</p>
+
 <a href="https://github.com/guilleodev"> 
  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">    
 </a>
