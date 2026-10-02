@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>FullStack | UX/UI Entusiasta visual </strong><br>
+  <strong>FullStack</strong><br>
   Hola! 👋 Soy Guille - Aprendiendo y construyendo
 </p>
 
@@ -20,17 +20,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
 </a>
 
-> [!NOTE]
-> - 🎨 Apasionado del **Front-End, la UI/UX** y las interfaces limpias 
-
 > [!IMPORTANT]
-> - 📚 Actualmente formándome en Node.js
+> - 📚 Actualmente formándome en IA y Big Data
 
 > [!WARNING]  
-> - 🎮 Gamer, creativo y muy curioso
+> - 🎮 GCC: Gamer, creativo y curioso
 
 > [!TIP]  
-> - 📗 Si estás interesad@ en colaborar — Me encantaría escucharte!
+> - 📗 Si estás interesad@ en colaborar — No dudes en contactar
 
 <p align="center">
   <a href="https://guilleodev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4CC9F0?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -57,7 +54,7 @@
 
 ### 💻 Programación y Tecnologías Web
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mysql" />
 </p>
 
 ### 🧩 CMS, Constructores y Herramientas Web
