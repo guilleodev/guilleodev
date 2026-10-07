@@ -97,6 +97,37 @@
 <tr>
   <td width="55%" valign="top">
 
+### 🐍 Python Practice Lab
+
+**Python Practice Lab** is a practical Python learning repository designed as a **progressive book**, growing alongside my studies in **Artificial Intelligence and Big Data**.
+
+The content uses **World of Warcraft and videogame-inspired scenarios** to make programming concepts easier and more engaging to learn.
+
+**Topics:** Python · Data Structures · Functions · Comprehensions · OOP · Data · AI & Big Data
+
+<p align="left">
+📖 <a href="https://github.com/guilleodev/python-practice-lab">Explore the Book</a>  
+📂 <a href="https://github.com/guilleodev/python-practice-lab">Repository</a>
+</p>
+
+  </td>
+
+  <td width="45%" valign="top" align="right">
+    <a href="https://github.com/guilleodev/python-practice-lab">
+      <img
+        src="https://github.com/guilleodev/python-practice-lab/blob/main/assets/images/python_practice_lab_cover.png"
+        width="420"
+        height="240"
+        style="object-fit: cover;"
+        alt="Python Practice Lab preview"
+      />
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td width="55%" valign="top">
+
 ### <img width="30" height="25" alt="image" src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/brand/logo/01.png" /> Pokemon Ascenso DevLogs
 
 Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog) de mi videojuego inspirado en la saga Pokémon, donde se documenta de forma visual y progresiva la evolución del proyecto desde sus primeras versiones hasta estados más avanzados. 
