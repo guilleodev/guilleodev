@@ -18,15 +18,15 @@ guilleodev@github:~$ python profile.py
   Studying   Artificial Intelligence & Big Data
   Focus      Python · Data Analytics · Web Development
   Status     Building, learning, improving...
-
-  [OK] Profile initialized successfully.
 ```
 
-<p align="center">
-  <a href="https://guilleodev.netlify.app">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/guillermo-redondo-camacho">💼 LinkedIn</a> ·
-  <a href="mailto:guillerc18@gmail.com">✉️ Email</a>
-</p>
+<pre>
+  ──────────────────────────────────────────────
+  <b>01.</b>  PORTFOLIO   <a href="https://guilleodev.netlify.app">guilleodev.netlify.app ↗</a>
+  <b>02.</b>  LINKEDIN    <a href="https://www.linkedin.com/in/guillermo-redondo-camacho">guillermo-redondo-camacho ↗</a>
+  <b>03.</b>  EMAIL       <a href="mailto:guillerc18@gmail.com">guillerc18@gmail.com ↗</a>
+  ──────────────────────────────────────────────
+</pre>
 
 ## `$ ls ~/projects/`
 
@@ -36,6 +36,7 @@ guilleodev@github:~$ python profile.py
 <td width="68%" valign="middle">
 
 ### ✈️ Málaga Airport Analytics
+<sub>📅 October 2026</sub>
 
 A personal Exploratory Data Analysis (EDA) project investigating flight activity, routes, origins, and destinations at Málaga-Costa del Sol Airport (AGP / LEMG) using real-world aviation data.
 
@@ -66,6 +67,7 @@ The project processes large-scale aviation datasets stored in Parquet format, fi
 <td width="68%" valign="middle">
 
 ### 🐍 Python Practice Lab
+<sub>📅 October 2026</sub>
 
 Python Practice Lab is a practical Python learning repository designed as a progressive book, growing alongside my studies in Artificial Intelligence and Big Data.
 
@@ -93,7 +95,36 @@ The content uses World of Warcraft and videogame-inspired scenarios to make prog
 <tr>
 <td width="68%" valign="middle">
 
+### 🌐 Mi Portfolio
+<sub>📅 *Updated* October 2026</sub>
+
+Portfolio personal desarrollado con HTML, CSS y JavaScript puro, con terminal interactiva, gráfico de contribuciones en tiempo real y un modo de juego propio basado en Canvas y Web Audio.
+
+<p>
+  Stack:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28" alt="html5" title="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28" alt="css3" title="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="javascript" title="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="28" height="28" alt="netlify" title="netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="28" height="28" alt="claude" title="claude"/>
+</p>
+
+🌐 [Web](https://guilleodev.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/new-portfolio-showcase)
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<a href="https://guilleodev.netlify.app">
+<img src="https://raw.githubusercontent.com/guilleodev/new-portfolio-showcase/main/docs/readme/portada.png" width="350" alt="Mi Portfolio">
+
+</td>
+</tr>
+
+<tr>
+<td width="68%" valign="middle">
+
 ### 🎮 Pokémon Ascenso DevLogs
+<sub>📅 April 2026</sub>
 
 Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog) de mi videojuego inspirado en la saga Pokémon, donde se documenta de forma visual y progresiva la evolución del proyecto desde sus primeras versiones hasta estados más avanzados.
 
@@ -105,7 +136,7 @@ Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28" alt="css3" title="css3"/>
 </p>
 
-🌐 [Demo](https://pokemonascensodevlogs.netlify.app) · 📂 [Código](https://github.com/guilleodev/PokemonAscensoDevLogs)
+🌐 [Demo](https://pokemonascensodevlogs.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/PokemonAscensoDevLogs)
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -121,6 +152,7 @@ Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog)
 <td width="68%" valign="middle">
 
 ### 🎯 Steam Profile
+<sub>📅 February 2026</sub>
 
 Steam Profile es una aplicación web que permite buscar perfiles de Steam y visualizar información del usuario, como su estado en línea, SteamID, última conexión, país, nivel de Steam, número total de juegos, horas jugadas y lista de amigos.
 
@@ -130,7 +162,7 @@ Steam Profile es una aplicación web que permite buscar perfiles de Steam y visu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="tailwindcss" title="tailwindcss"/>
 </p>
 
-🌐 [Demo](https://steamprofile.netlify.app) · 📂 [Código](https://github.com/guilleodev/steamProfile)
+🌐 [Demo](https://steamprofile.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/steamProfile)
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -142,32 +174,6 @@ Steam Profile es una aplicación web que permite buscar perfiles de Steam y visu
 </td>
 </tr>
 
-<tr>
-<td width="68%" valign="middle">
-
-### 🌐 Mi Portfolio
-
-Portfolio personal con mis proyectos, experiencia y conocimientos de desarrollo web.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28" alt="html5" title="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28" alt="css3" title="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="javascript" title="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="tailwindcss" title="tailwindcss"/>
-</p>
-
-🌐 [Web](https://guilleodev.netlify.app) · 📂 [Código](https://github.com/guilleodev/mi-portfolio)
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<a href="https://guilleodev.netlify.app">
-<img src="https://raw.githubusercontent.com/guilleodev/mi-portfolio/main/assets/img/capturamiportfolio.png" width="350" alt="Mi Portfolio">
-</a>
-
-</td>
-</tr>
 </table>
 
 ## `$ cat about_me.md`
