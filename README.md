@@ -1,4 +1,4 @@
-
+pas
 ## `$ ./guilleodev.sh`
 
 ```text
@@ -28,152 +28,125 @@ guilleodev@github:~$ python profile.py
   ──────────────────────────────────────────────
 </pre>
 
-## `$ ls ~/projects/`
+## `$ ls ~/projects/personal/`
+
+<sub>Personal Projects · Web Development & Data Analytics</sub>
 
 <table>
-
 <tr>
-<td width="68%" valign="middle">
-
-### ✈️ Málaga Airport Analytics
-<sub>📅 October 2026</sub>
-
-A personal Exploratory Data Analysis (EDA) project investigating flight activity, routes, origins, and destinations at Málaga-Costa del Sol Airport (AGP / LEMG) using real-world aviation data.
-
-The project processes large-scale aviation datasets stored in Parquet format, filtering worldwide flight records to analyze airport activity in Málaga.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="python" title="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="28" height="28" alt="pandas" title="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="28" height="28" alt="numpy" title="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="28" height="28" alt="matplotlib" title="matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="28" height="28" alt="jupyter" title="jupyter"/>
-</p>
-
-📂 [Repositorio](https://github.com/guilleodev/malaga-airport-analytics)
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/malaga-airport-analytics">
+    <img src="03-malaga-airport-analytics.png" width="280" alt="Málaga Airport Analytics">
+    <br>
+    <b>✈️ Málaga Airport Analytics</b>
+  </a>
+  <br>
+  <sub>Exploratory data analysis of real-world aviation data using Python and Pandas.</sub>
 </td>
-<td width="32%" align="center" valign="middle">
 
-<a href="https://github.com/guilleodev/malaga-airport-analytics">
-  <img src="https://raw.githubusercontent.com/guilleodev/malaga-airport-analytics/main/images/malaga_airport_analytics_project_image_main.png" width="350" alt="Málaga Airport Analytics">
-</a>
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/python-practice-lab">
+    <img src="08-python-practice-lab.png" width="280" alt="Python Practice Lab">
+    <br>
+    <b>🐍 Python Practice Lab</b>
+  </a>
+  <br>
+  <sub>Python exercises, challenges and learning experiments.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="68%" valign="middle">
-
-### 🐍 Python Practice Lab
-<sub>📅 October 2026</sub>
-
-Python Practice Lab is a practical Python learning repository designed as a progressive book, growing alongside my studies in Artificial Intelligence and Big Data.
-
-The content uses World of Warcraft and videogame-inspired scenarios to make programming concepts easier and more engaging to learn.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="python" title="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="28" height="28" alt="numpy" title="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="28" height="28" alt="pandas" title="pandas"/>
-</p>
-
-📂 [Repositorio](https://github.com/guilleodev/python-practice-lab)
-
+<td width="50%" align="center">
+  <a href="https://guilleodev.netlify.app">
+    <img src="06-mi-portfolio.png" width="280" alt="Mi Portfolio">
+    <br>
+    <b>🌐 Mi Portfolio</b>
+  </a>
+  <br>
+  <sub>Interactive developer portfolio with a terminal-inspired design.</sub>
 </td>
-<td width="32%" align="center" valign="middle">
 
-<a href="https://github.com/guilleodev/python-practice-lab">
-<img src="https://raw.githubusercontent.com/guilleodev/python-practice-lab/main/assets/images/python_practice_lab_cover.png" width="350" alt="Python Practice Lab">
-</a>
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/PokemonAscensoDevLogs">
+    <img src="07-pokemon-ascenso-devlogs.png" width="280" alt="Pokémon Ascenso DevLogs">
+    <br>
+    <b>🎮 Pokémon Ascenso DevLogs</b>
+  </a>
+  <br>
+  <sub>Web development diary documenting a Pokémon-inspired videogame.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="68%" valign="middle">
-
-### 🌐 Mi Portfolio
-<sub>📅 *Updated* October 2026</sub>
-
-Portfolio personal desarrollado con HTML, CSS y JavaScript puro, con terminal interactiva, gráfico de contribuciones en tiempo real y un modo de juego propio basado en Canvas y Web Audio.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28" alt="html5" title="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28" alt="css3" title="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="javascript" title="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="28" height="28" alt="netlify" title="netlify"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="28" height="28" alt="claude" title="claude"/>
-</p>
-
-🌐 [Web](https://guilleodev.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/new-portfolio-showcase)
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/steamProfile">
+    <img src="09-steamprofile.png" width="280" alt="Steam Profile">
+    <br>
+    <b>🎯 Steam Profile</b>
+  </a>
+  <br>
+  <sub>Web application for exploring Steam profiles and player statistics.</sub>
 </td>
-<td width="32%" align="center" valign="middle">
 
-<a href="https://guilleodev.netlify.app">
-<img src="https://raw.githubusercontent.com/guilleodev/new-portfolio-showcase/main/docs/readme/portada.png" width="350" alt="Mi Portfolio">
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev?tab=repositories">
+    <br>
+    <b>📂 More Projects</b>
+  </a>
+  <br>
+  <sub>Explore more repositories, experiments and development projects.</sub>
+</td>
+</tr>
+</table>
 
+## `$ ls ~/projects/academic/`
+
+<sub>🎓 Academic Projects · AI & Big Data · 2026/27</sub>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/observatorio-sismico">
+    <img src="01-observatorio-sismico.png" width="280" alt="Observatorio Sísmico">
+    <br>
+    <b>🌍 Observatorio Sísmico</b>
+  </a>
+  <br>
+  <sub>Real-time seismic monitoring with Python, Angular and Kafka.</sub>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/rainpredict-machine-learning">
+    <img src="02-rainpredict.png" width="280" alt="RainPredict">
+    <br>
+    <b>🌧️ RainPredict</b>
+  </a>
+  <br>
+  <sub>Next-day rainfall prediction using Machine Learning.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="68%" valign="middle">
-
-### 🎮 Pokémon Ascenso DevLogs
-<sub>📅 April 2026</sub>
-
-Pokémon Ascenso DevLogs es una web concebida como diario de desarrollo (devlog) de mi videojuego inspirado en la saga Pokémon, donde se documenta de forma visual y progresiva la evolución del proyecto desde sus primeras versiones hasta estados más avanzados.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28" alt="react" title="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="28" height="28" alt="vitejs" title="vitejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="javascript" title="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28" alt="css3" title="css3"/>
-</p>
-
-🌐 [Demo](https://pokemonascensodevlogs.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/PokemonAscensoDevLogs)
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/visualizacion-uso-ia-estudiantes-profesionales">
+    <img src="04-ai-usage-visualization.png" width="280" alt="AI Usage Visualization">
+    <br>
+    <b>📊 AI Usage Visualization</b>
+  </a>
+  <br>
+  <sub>Interactive dashboard exploring AI usage and productivity.</sub>
 </td>
-<td width="32%" align="center" valign="middle">
 
-<a href="https://pokemonascensodevlogs.netlify.app">
-<img src="https://raw.githubusercontent.com/guilleodev/PokemonAscensoDevLogs/main/public/media/capturaPokemonAscensoDevLogs3.png" width="350" alt="Pokémon Ascenso DevLogs">
-</a>
-
+<td width="50%" align="center">
+  <a href="https://github.com/guilleodev/Proyecto_Kiro">
+    <img src="05-proyecto-kiro-cinetrack.png" width="280" alt="Proyecto Kiro CineTrack">
+    <br>
+    <b>🎬 Proyecto Kiro · CineTrack</b>
+  </a>
+  <br>
+  <sub>Collaborative Django project using Spec-Driven Development.</sub>
 </td>
 </tr>
-
-<tr>
-<td width="68%" valign="middle">
-
-### 🎯 Steam Profile
-<sub>📅 February 2026</sub>
-
-Steam Profile es una aplicación web que permite buscar perfiles de Steam y visualizar información del usuario, como su estado en línea, SteamID, última conexión, país, nivel de Steam, número total de juegos, horas jugadas y lista de amigos.
-
-<p>
-  Stack:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="javascript" title="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="tailwindcss" title="tailwindcss"/>
-</p>
-
-🌐 [Demo](https://steamprofile.netlify.app) · 📂 [Repositorio](https://github.com/guilleodev/steamProfile)
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<a href="https://steamprofile.netlify.app">
-<img src="https://raw.githubusercontent.com/guilleodev/steamprofile/main/assets/img/capturaSteamProfile2-es.png" width="350" alt="Steam Profile">
-</a>
-
-</td>
-</tr>
-
 </table>
 
 ## `$ cat about_me.md`
