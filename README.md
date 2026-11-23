@@ -89,12 +89,13 @@ guilleodev@github:~$ python profile.py
 </td>
 
 <td width="50%" align="center">
-  <a href="https://github.com/guilleodev?tab=repositories">
+  <a href="https://github.com/guilleodev/safe-routes-malaga-showcase">
+    <img src="10-safe-routes.png" width="280" alt="Steam Profile">
     <br>
-    <b>📂 More Projects</b>
+    <b>🏆 Safe Routes</b>
   </a>
   <br>
-  <sub>Explore more repositories, experiments and development projects.</sub>
+  <sub>La ruta con más luz para volver a casa de noche. Primer premio Impact Makers 2026.</sub>
 </td>
 </tr>
 </table>
